@@ -1,4 +1,4 @@
-# Indian-Sign-Lang-Recognition
+# Indian Sign Language Recognition
 Indian sign language recognition system- A group of indicators that communicate a message through predetermined gestures and motions. 
 Convolution neural network (CNN) is a neural network technology that is used to train the required prediction models. Also created a GUI to display the output.
 
